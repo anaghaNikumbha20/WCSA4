@@ -70,6 +70,12 @@ public class UsersPage {
 	{
 		getUsnTextbox().sendKeys(validUser);
 	}
+
+
+	public void clickOnTab() {
+		
+		
+	}
 	
 	
 	
